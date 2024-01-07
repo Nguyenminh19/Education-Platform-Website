@@ -618,3 +618,18 @@ footer.footer {
 .footer ul span {
   color: #fff;
 }
+
+.footer .row {
+  padding-bottom: 38px;
+  border-bottom: 1px solid #59554b;
+}
+
+.footer .copy-right {
+  padding: 28px 0;
+  text-align: center;
+  color: #807d74;
+  text-align: center;
+  font-size: 1.4rem;
+  font-style: normal;
+  line-height: 26px; /* 185.714% */
+}
